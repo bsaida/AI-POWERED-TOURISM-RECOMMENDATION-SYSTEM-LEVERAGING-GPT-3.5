@@ -1,0 +1,49 @@
+{
+    "users": [
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234",
+            "test_cases": null,
+            "program": null
+        },
+        {
+            "name": "user2",
+            "email": "user2@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234",
+            "test_cases": null,
+            "program": null
+        },
+        {
+            "name": "Pavan",
+            "email": "pavanyadavalli2@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "Pavan123",
+            "test_cases": null,
+            "program": null
+        },
+        {
+            "name": "Siadvali",
+            "email": "vtu19488@veltech.edu.in",
+            "age": 19,
+            "sex": "Male",
+            "password": "Saida@sss",
+            "test_cases": null,
+            "program": null
+        },
+        {
+            "name": "Uaday",
+            "email": "uday123@gmail.com",
+            "age": 18,
+            "sex": "Male",
+            "password": "123456",
+            "test_cases": null,
+            "program": null
+        }
+    ]
+}
